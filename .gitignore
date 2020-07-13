@@ -1,0 +1,7 @@
+*.snap
+.vscode
+.vagrant
+*.log
+parts/
+prime/
+stage/
